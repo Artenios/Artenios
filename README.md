@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Artenios
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Artenios/Artenios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Artenios
+- I'm currently working on a minecraft server
+- 🖥 Member of the Wacoma's team and admin/developper for Wacoma.
